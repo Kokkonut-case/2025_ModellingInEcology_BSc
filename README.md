@@ -3,4 +3,4 @@ The three files included here were written by small teams of students that parti
 
 The file "demography" presents two models - one stochastic, one deterministic - of age-structured population growth 
 The file "sex ratio" presents three models (local-mate competition, feminization, male-killing) that might explain the evolution of sex ratio different from 1:1  
-the file "clutch size" presents a life-history model about the evolution of clutch size depending on juvenile mortality
+The file "clutch size" presents a life-history model about the evolution of clutch size depending on juvenile mortality
