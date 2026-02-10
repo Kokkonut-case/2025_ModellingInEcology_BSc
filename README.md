@@ -1,2 +1,2 @@
 # 2025_ModellingInEcology_BSc
-Scripts from the different BSc student projects in the winter semester 2025-2026 course "Theoretical Evolutionary biology and Ecology"
+The three files included here were written by small teams of students that participated in the winter semester 2025-2026 "Theoretical Evolutionary Ecology" Bachelors elective module. Each team was tasked with writing a simple model to test a research question they developed in the first half of the subject. Students were guided by the postdoc coordinators, but the work is their own.
